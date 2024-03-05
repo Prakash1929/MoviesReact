@@ -6,7 +6,7 @@ Currently, two official plugins are available:
 
 # Preview - https://moviesprakash.netlify.app/
 
-Using Technology 
+# Using Technology 
 # React js
 # Tailwind Css
 # React Router
