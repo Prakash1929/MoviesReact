@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body,section{
+    background-color: #212121;
+}
+
+
+ .search-input>input,.search-input>button{
+    border: none;
+    border-radius: 15px;
+   
+}
+.error>p{
+    color: red;
+    font-weight: 400;
+    font-size: 18px;
+}
